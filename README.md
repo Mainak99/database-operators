@@ -10,3 +10,4 @@ Chart repository for various databases .
 
 
 https://kubernetes.io/docs/concepts/workloads/
+Cass Operator

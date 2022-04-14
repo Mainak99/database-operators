@@ -7,3 +7,6 @@ Chart repository for various databases .
  - Neo4J
  - ElasticSearch
  - Relational DB
+
+
+https://kubernetes.io/docs/concepts/workloads/
